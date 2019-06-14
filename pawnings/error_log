@@ -1,0 +1,84 @@
+[15-Jul-2017 03:22:32 UTC] PHP Warning:  getimagesize(../vijaya.jpeg): failed to open stream: No such file or directory in /home/apple981/public_html/backend/TCPDF-master/include/tcpdf_images.php on line 171
+[15-Jul-2017 03:22:32 UTC] PHP Warning:  imagecreatefromjpeg(../vijaya.jpeg): failed to open stream: No such file or directory in /home/apple981/public_html/backend/TCPDF-master/tcpdf.php on line 7039
+[15-Jul-2017 03:22:55 UTC] PHP Warning:  getimagesize(../vijaya.jpeg): failed to open stream: No such file or directory in /home/apple981/public_html/backend/TCPDF-master/include/tcpdf_images.php on line 171
+[15-Jul-2017 03:22:55 UTC] PHP Warning:  imagecreatefromjpeg(../vijaya.jpeg): failed to open stream: No such file or directory in /home/apple981/public_html/backend/TCPDF-master/tcpdf.php on line 7039
+[15-Jul-2017 03:47:45 UTC] PHP Warning:  getimagesize(../vijaya.jpeg): failed to open stream: No such file or directory in /home/apple981/public_html/backend/TCPDF-master/include/tcpdf_images.php on line 171
+[15-Jul-2017 03:47:45 UTC] PHP Warning:  imagecreatefromjpeg(../vijaya.jpeg): failed to open stream: No such file or directory in /home/apple981/public_html/backend/TCPDF-master/tcpdf.php on line 7039
+[15-Jul-2017 04:06:08 UTC] PHP Warning:  getimagesize(../vijaya.jpeg): failed to open stream: No such file or directory in /home/apple981/public_html/backend/TCPDF-master/include/tcpdf_images.php on line 171
+[15-Jul-2017 04:06:08 UTC] PHP Warning:  imagecreatefromjpeg(../vijaya.jpeg): failed to open stream: No such file or directory in /home/apple981/public_html/backend/TCPDF-master/tcpdf.php on line 7039
+[15-Jul-2017 04:38:31 UTC] PHP Warning:  getimagesize(../vijaya.jpeg): failed to open stream: No such file or directory in /home/apple981/public_html/backend/TCPDF-master/include/tcpdf_images.php on line 171
+[15-Jul-2017 04:38:31 UTC] PHP Warning:  imagecreatefromjpeg(../vijaya.jpeg): failed to open stream: No such file or directory in /home/apple981/public_html/backend/TCPDF-master/tcpdf.php on line 7039
+[15-Jul-2017 04:40:31 UTC] PHP Warning:  getimagesize(../vijaya.jpeg): failed to open stream: No such file or directory in /home/apple981/public_html/backend/TCPDF-master/include/tcpdf_images.php on line 171
+[15-Jul-2017 04:40:31 UTC] PHP Warning:  imagecreatefromjpeg(../vijaya.jpeg): failed to open stream: No such file or directory in /home/apple981/public_html/backend/TCPDF-master/tcpdf.php on line 7039
+[15-Jul-2017 04:43:19 UTC] PHP Warning:  getimagesize(../vijaya.jpeg): failed to open stream: No such file or directory in /home/apple981/public_html/backend/TCPDF-master/include/tcpdf_images.php on line 171
+[15-Jul-2017 04:43:19 UTC] PHP Warning:  imagecreatefromjpeg(../vijaya.jpeg): failed to open stream: No such file or directory in /home/apple981/public_html/backend/TCPDF-master/tcpdf.php on line 7039
+[15-Jul-2017 04:43:49 UTC] PHP Warning:  getimagesize(../vijaya.jpeg): failed to open stream: No such file or directory in /home/apple981/public_html/backend/TCPDF-master/include/tcpdf_images.php on line 171
+[15-Jul-2017 04:43:49 UTC] PHP Warning:  imagecreatefromjpeg(../vijaya.jpeg): failed to open stream: No such file or directory in /home/apple981/public_html/backend/TCPDF-master/tcpdf.php on line 7039
+[15-Jul-2017 09:21:03 UTC] PHP Warning:  getimagesize(../vijaya.jpeg): failed to open stream: No such file or directory in /home/apple981/public_html/backend/TCPDF-master/include/tcpdf_images.php on line 171
+[15-Jul-2017 09:21:03 UTC] PHP Warning:  imagecreatefromjpeg(../vijaya.jpeg): failed to open stream: No such file or directory in /home/apple981/public_html/backend/TCPDF-master/tcpdf.php on line 7039
+[15-Jul-2017 09:21:11 UTC] PHP Warning:  getimagesize(../vijaya.jpeg): failed to open stream: No such file or directory in /home/apple981/public_html/backend/TCPDF-master/include/tcpdf_images.php on line 171
+[15-Jul-2017 09:21:11 UTC] PHP Warning:  imagecreatefromjpeg(../vijaya.jpeg): failed to open stream: No such file or directory in /home/apple981/public_html/backend/TCPDF-master/tcpdf.php on line 7039
+[15-Jul-2017 22:19:56 UTC] PHP Warning:  getimagesize(../vijaya.jpeg): failed to open stream: No such file or directory in /home/apple981/public_html/backend/TCPDF-master/include/tcpdf_images.php on line 171
+[15-Jul-2017 22:19:56 UTC] PHP Warning:  imagecreatefromjpeg(../vijaya.jpeg): failed to open stream: No such file or directory in /home/apple981/public_html/backend/TCPDF-master/tcpdf.php on line 7039
+[15-Jul-2017 22:23:19 UTC] PHP Warning:  getimagesize(../vijaya.jpeg): failed to open stream: No such file or directory in /home/apple981/public_html/backend/TCPDF-master/include/tcpdf_images.php on line 171
+[15-Jul-2017 22:23:19 UTC] PHP Warning:  imagecreatefromjpeg(../vijaya.jpeg): failed to open stream: No such file or directory in /home/apple981/public_html/backend/TCPDF-master/tcpdf.php on line 7039
+[18-Jul-2017 04:47:10 America/Caracas] PHP Notice:  Undefined variable: conn in /home/apple981/public_html/pawnings/create-pawning.php on line 54
+[18-Jul-2017 04:47:10 America/Caracas] PHP Fatal error:  Call to a member function query() on null in /home/apple981/public_html/pawnings/create-pawning.php on line 54
+[18-Jul-2017 04:49:15 America/Caracas] PHP Notice:  Undefined variable: conn in /home/apple981/public_html/pawnings/create-pawning.php on line 54
+[18-Jul-2017 04:49:15 America/Caracas] PHP Fatal error:  Call to a member function query() on null in /home/apple981/public_html/pawnings/create-pawning.php on line 54
+[18-Jul-2017 04:50:16 America/Caracas] PHP Notice:  Undefined variable: conn in /home/apple981/public_html/pawnings/create-pawning.php on line 54
+[18-Jul-2017 04:50:16 America/Caracas] PHP Fatal error:  Call to a member function query() on null in /home/apple981/public_html/pawnings/create-pawning.php on line 54
+[18-Jul-2017 04:52:03 America/Caracas] PHP Notice:  Undefined variable: conn in /home/apple981/public_html/pawnings/create-pawning.php on line 61
+[18-Jul-2017 04:52:03 America/Caracas] PHP Fatal error:  Call to a member function query() on null in /home/apple981/public_html/pawnings/create-pawning.php on line 61
+[18-Jul-2017 04:53:12 America/Caracas] PHP Notice:  Undefined variable: conn in /home/apple981/public_html/pawnings/create-pawning.php on line 61
+[18-Jul-2017 04:53:12 America/Caracas] PHP Fatal error:  Call to a member function query() on null in /home/apple981/public_html/pawnings/create-pawning.php on line 61
+[18-Jul-2017 04:53:25 America/Caracas] PHP Notice:  Undefined variable: conn in /home/apple981/public_html/pawnings/create-pawning.php on line 61
+[18-Jul-2017 04:53:25 America/Caracas] PHP Fatal error:  Call to a member function query() on null in /home/apple981/public_html/pawnings/create-pawning.php on line 61
+[18-Jul-2017 08:54:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/apple981/public_html/pawnings/update-pawning.php on line 60
+[18-Jul-2017 08:54:34 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/apple981/public_html/pawnings/update-pawning.php on line 61
+[18-Jul-2017 21:31:29 UTC] PHP Fatal error:  Uncaught exception 'Swift_RfcComplianceException' with message 'Address in mailbox given [] does not comply with RFC 2822, 3.6.2.' in /home/apple981/public_html/backend/mail/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php:354
+Stack trace:
+#0 /home/apple981/public_html/backend/mail/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php(271): Swift_Mime_Headers_MailboxHeader->assertValidAddress('')
+#1 /home/apple981/public_html/backend/mail/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php(116): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home/apple981/public_html/backend/mail/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php(73): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home/apple981/public_html/backend/mail/swiftmailer/swiftmailer/lib/classes/Swift/Mime/SimpleHeaderFactory.php(63): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home/apple981/public_html/backend/mail in /home/apple981/public_html/backend/mail/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 354
+[19-Jul-2017 02:52:05 UTC] PHP Fatal error:  Uncaught exception 'Swift_RfcComplianceException' with message 'Address in mailbox given [] does not comply with RFC 2822, 3.6.2.' in /home/apple981/public_html/backend/mail/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php:354
+Stack trace:
+#0 /home/apple981/public_html/backend/mail/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php(271): Swift_Mime_Headers_MailboxHeader->assertValidAddress('')
+#1 /home/apple981/public_html/backend/mail/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php(116): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home/apple981/public_html/backend/mail/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php(73): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home/apple981/public_html/backend/mail/swiftmailer/swiftmailer/lib/classes/Swift/Mime/SimpleHeaderFactory.php(63): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home/apple981/public_html/backend/mail in /home/apple981/public_html/backend/mail/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 354
+[19-Jul-2017 02:52:09 UTC] PHP Fatal error:  Uncaught exception 'Swift_RfcComplianceException' with message 'Address in mailbox given [] does not comply with RFC 2822, 3.6.2.' in /home/apple981/public_html/backend/mail/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php:354
+Stack trace:
+#0 /home/apple981/public_html/backend/mail/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php(271): Swift_Mime_Headers_MailboxHeader->assertValidAddress('')
+#1 /home/apple981/public_html/backend/mail/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php(116): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home/apple981/public_html/backend/mail/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php(73): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home/apple981/public_html/backend/mail/swiftmailer/swiftmailer/lib/classes/Swift/Mime/SimpleHeaderFactory.php(63): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home/apple981/public_html/backend/mail in /home/apple981/public_html/backend/mail/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 354
+[19-Jul-2017 15:21:19 UTC] PHP Notice:  Undefined index: usuario in /home/apple981/public_html/include/layout-top-low.php on line 2
+[19-Jul-2017 15:21:19 UTC] PHP Notice:  Undefined index: usuario in /home/apple981/public_html/include/layout-top-low.php on line 46
+[19-Jul-2017 15:21:19 UTC] PHP Notice:  Undefined index: privileges in /home/apple981/public_html/include/layout-top-low.php on line 68
+[19-Jul-2017 15:21:19 UTC] PHP Notice:  Undefined index: pawnBillNo in /home/apple981/public_html/pawnings/repawn.php on line 10
+[19-Jul-2017 11:21:19 America/Caracas] PHP Notice:  Undefined index: pawnBillNo in /home/apple981/public_html/pawnings/repawn.php on line 57
+[19-Jul-2017 15:29:20 UTC] PHP Warning:  getimagesize(../vijaya.jpeg): failed to open stream: No such file or directory in /home/apple981/public_html/backend/TCPDF-master/include/tcpdf_images.php on line 171
+[19-Jul-2017 15:29:20 UTC] PHP Warning:  imagecreatefromjpeg(../vijaya.jpeg): failed to open stream: No such file or directory in /home/apple981/public_html/backend/TCPDF-master/tcpdf.php on line 7039
+[19-Jul-2017 15:31:30 UTC] PHP Warning:  getimagesize(../vijaya.jpeg): failed to open stream: No such file or directory in /home/apple981/public_html/backend/TCPDF-master/include/tcpdf_images.php on line 171
+[19-Jul-2017 15:31:30 UTC] PHP Warning:  imagecreatefromjpeg(../vijaya.jpeg): failed to open stream: No such file or directory in /home/apple981/public_html/backend/TCPDF-master/tcpdf.php on line 7039
+[22-Jul-2017 05:03:51 America/Caracas] PHP Notice:  Undefined index: pawnId in /home/apple981/public_html/pawnings/repawn.php on line 66
+[26-Jul-2017 04:46:17 America/Caracas] PHP Notice:  Undefined index: pawnId in /home/apple981/public_html/pawnings/repawn.php on line 66
+[28-Jul-2017 05:51:06 UTC] PHP Notice:  Undefined index: usuario in /home/apple981/public_html/include/layout-top-low.php on line 2
+[28-Jul-2017 05:51:06 UTC] PHP Notice:  Undefined index: usuario in /home/apple981/public_html/include/layout-top-low.php on line 46
+[28-Jul-2017 05:51:06 UTC] PHP Notice:  Undefined index: privileges in /home/apple981/public_html/include/layout-top-low.php on line 68
+[28-Jul-2017 01:53:23 America/Caracas] PHP Notice:  Undefined index: pawnId in /home/apple981/public_html/pawnings/repawn.php on line 66
+[28-Jul-2017 01:55:00 America/Caracas] PHP Notice:  Undefined index: pawnId in /home/apple981/public_html/pawnings/repawn.php on line 66
+[28-Jul-2017 05:55:00 UTC] PHP Notice:  Undefined index: usuario in /home/apple981/public_html/include/layout-top-low.php on line 2
+[28-Jul-2017 05:55:00 UTC] PHP Notice:  Undefined index: usuario in /home/apple981/public_html/include/layout-top-low.php on line 46
+[28-Jul-2017 05:55:00 UTC] PHP Notice:  Undefined index: privileges in /home/apple981/public_html/include/layout-top-low.php on line 68
+[28-Jul-2017 05:55:00 UTC] PHP Notice:  Undefined index: pawnBillNo in /home/apple981/public_html/pawnings/repawn.php on line 10
+[28-Jul-2017 01:55:00 America/Caracas] PHP Notice:  Undefined index: pawnBillNo in /home/apple981/public_html/pawnings/repawn.php on line 60
+[28-Jul-2017 01:55:00 America/Caracas] PHP Notice:  Undefined index: pawnId in /home/apple981/public_html/pawnings/repawn.php on line 66
+[25-Aug-2017 20:44:20 Asia/Calcutta] PHP Notice:  Undefined index: pawnId in /home/apple981/public_html/pawnings/repawn.php on line 66
+[25-Aug-2017 20:57:02 Asia/Calcutta] PHP Notice:  Undefined index: pawnId in /home/apple981/public_html/pawnings/repawn.php on line 66
+[25-Aug-2017 21:02:25 Asia/Calcutta] PHP Notice:  Undefined index: pawnId in /home/apple981/public_html/pawnings/repawn.php on line 66

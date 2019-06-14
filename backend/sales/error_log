@@ -1,0 +1,15 @@
+[03-Aug-2017 05:51:01 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/apple981/public_html/backend/sales/update-sale.php on line 32
+[03-Aug-2017 05:51:01 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/apple981/public_html/backend/sales/update-sale.php on line 32
+[03-Aug-2017 05:52:10 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/apple981/public_html/backend/sales/update-sale.php on line 32
+[03-Aug-2017 05:52:10 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/apple981/public_html/backend/sales/update-sale.php on line 32
+[03-Aug-2017 05:54:00 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/apple981/public_html/backend/sales/update-sale.php on line 32
+[03-Aug-2017 05:54:00 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/apple981/public_html/backend/sales/update-sale.php on line 32
+[03-Aug-2017 05:55:30 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/apple981/public_html/backend/sales/update-sale.php on line 33
+[03-Aug-2017 05:55:30 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/apple981/public_html/backend/sales/update-sale.php on line 33
+[03-Aug-2017 05:56:46 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/apple981/public_html/backend/sales/update-sale.php on line 33
+[03-Aug-2017 05:56:46 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/apple981/public_html/backend/sales/update-sale.php on line 33
+[03-Aug-2017 05:57:38 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/apple981/public_html/backend/sales/update-sale.php on line 33
+[03-Aug-2017 05:57:38 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/apple981/public_html/backend/sales/update-sale.php on line 33
+[03-Aug-2017 05:58:00 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/apple981/public_html/backend/sales/update-sale.php on line 33
+[03-Aug-2017 05:58:00 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/apple981/public_html/backend/sales/update-sale.php on line 33
+[03-Aug-2017 05:59:56 UTC] PHP Notice:  Undefined offset: 1 in /home/apple981/public_html/backend/sales/update-sale.php on line 33

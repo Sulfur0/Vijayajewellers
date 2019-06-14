@@ -1,0 +1,27 @@
+[15-Jul-2017 03:49:10 UTC] PHP Notice:  Undefined index: extraValue in /home/apple981/public_html/backend/pawnings/update-pawning.php on line 28
+[15-Jul-2017 03:49:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/apple981/public_html/backend/pawnings/update-pawning.php on line 28
+[15-Jul-2017 04:06:04 UTC] PHP Notice:  Undefined index: extraValue in /home/apple981/public_html/backend/pawnings/update-pawning.php on line 28
+[15-Jul-2017 04:06:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/apple981/public_html/backend/pawnings/update-pawning.php on line 28
+[15-Jul-2017 04:39:14 UTC] PHP Notice:  Undefined index: extraValue in /home/apple981/public_html/backend/pawnings/update-pawning.php on line 28
+[15-Jul-2017 04:39:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/apple981/public_html/backend/pawnings/update-pawning.php on line 28
+[15-Jul-2017 05:33:18 UTC] PHP Notice:  Undefined index: extraValue in /home/apple981/public_html/backend/pawnings/update-pawning.php on line 28
+[15-Jul-2017 05:33:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/apple981/public_html/backend/pawnings/update-pawning.php on line 28
+[17-Jul-2017 18:09:04 UTC] PHP Notice:  Undefined index: extraValue in /home/apple981/public_html/backend/pawnings/update-pawning.php on line 28
+[17-Jul-2017 18:09:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/apple981/public_html/backend/pawnings/update-pawning.php on line 28
+[18-Jul-2017 02:33:31 UTC] PHP Notice:  Undefined offset: 1 in /home/apple981/public_html/backend/pawnings/create-pawning.php on line 43
+[18-Jul-2017 02:38:33 UTC] PHP Notice:  Undefined offset: 1 in /home/apple981/public_html/backend/pawnings/create-pawning.php on line 43
+[18-Jul-2017 02:40:29 UTC] PHP Notice:  Undefined offset: 1 in /home/apple981/public_html/backend/pawnings/create-pawning.php on line 43
+[18-Jul-2017 03:13:47 UTC] PHP Notice:  Undefined offset: 1 in /home/apple981/public_html/backend/pawnings/create-pawning.php on line 43
+[18-Jul-2017 03:31:10 UTC] PHP Notice:  Undefined offset: 1 in /home/apple981/public_html/backend/pawnings/create-pawning.php on line 45
+[18-Jul-2017 03:38:32 UTC] PHP Notice:  Undefined offset: 1 in /home/apple981/public_html/backend/pawnings/create-pawning.php on line 45
+[25-Aug-2017 15:14:33 UTC] PHP Notice:  Undefined index: pawnIdentifier in /home/apple981/public_html/backend/pawnings/repawn.php on line 32
+[25-Aug-2017 15:14:33 UTC] PHP Notice:  Undefined index: pawnIdentifier in /home/apple981/public_html/backend/pawnings/repawn.php on line 38
+[25-Aug-2017 15:14:33 UTC] PHP Notice:  Undefined index: pawnIdentifier in /home/apple981/public_html/backend/pawnings/repawn.php on line 45
+[25-Aug-2017 15:27:07 UTC] PHP Notice:  Undefined index: pawnIdentifier in /home/apple981/public_html/backend/pawnings/repawn.php on line 18
+[25-Aug-2017 15:27:07 UTC] PHP Notice:  Undefined index: pawnIdentifier in /home/apple981/public_html/backend/pawnings/repawn.php on line 24
+[25-Aug-2017 15:27:07 UTC] PHP Notice:  Undefined index: pawnIdentifier in /home/apple981/public_html/backend/pawnings/repawn.php on line 45
+[25-Aug-2017 15:27:25 UTC] PHP Notice:  Array to string conversion in /home/apple981/public_html/backend/pawnings/redeem.php on line 26
+[25-Aug-2017 15:30:03 UTC] PHP Notice:  Array to string conversion in /home/apple981/public_html/backend/pawnings/redeem.php on line 26
+[25-Aug-2017 15:32:35 UTC] PHP Notice:  Undefined index: pawnIdentifier in /home/apple981/public_html/backend/pawnings/repawn.php on line 18
+[25-Aug-2017 15:32:35 UTC] PHP Notice:  Undefined index: pawnIdentifier in /home/apple981/public_html/backend/pawnings/repawn.php on line 24
+[25-Aug-2017 15:32:35 UTC] PHP Notice:  Undefined index: pawnIdentifier in /home/apple981/public_html/backend/pawnings/repawn.php on line 45

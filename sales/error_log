@@ -1,0 +1,11 @@
+[03-Aug-2017 08:43:20 UTC] PHP Notice:  Undefined variable: billNo in /home/apple981/public_html/sales/view-bill.php on line 46
+[03-Aug-2017 08:43:20 UTC] PHP Notice:  Undefined variable: billNo in /home/apple981/public_html/sales/view-bill.php on line 52
+[03-Aug-2017 08:43:21 UTC] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/apple981/public_html/sales/view-bill.php on line 106
+[03-Aug-2017 08:46:44 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string ('2017-08-02 03:38:46') at position 0 ('): Unexpected character' in /home/apple981/public_html/sales/view-bill.php:34
+Stack trace:
+#0 /home/apple981/public_html/sales/view-bill.php(34): DateTime->__construct(''2017-08-02 03:...')
+#1 {main}
+  thrown in /home/apple981/public_html/sales/view-bill.php on line 34
+[25-Aug-2017 15:13:22 UTC] PHP Notice:  Trying to get property of non-object in /home/apple981/public_html/sales/bill-sales.php on line 80
+[25-Aug-2017 15:33:16 UTC] PHP Notice:  Trying to get property of non-object in /home/apple981/public_html/sales/bill-sales.php on line 80
+[28-Aug-2017 09:40:46 UTC] PHP Notice:  Trying to get property of non-object in /home/apple981/public_html/sales/bill-sales.php on line 80

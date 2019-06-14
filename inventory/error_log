@@ -1,0 +1,19 @@
+[01-Aug-2017 10:05:17 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/apple981/public_html/inventory/view-inventory-pdf.php on line 47
+[01-Aug-2017 10:06:09 UTC] PHP Warning:  imagecreatefrompng(vijaya.png): failed to open stream: No such file or directory in /home/apple981/public_html/backend/TCPDF-master/tcpdf.php on line 7039
+[01-Aug-2017 10:09:27 UTC] PHP Warning:  imagecreatefrompng(vijaya.png): failed to open stream: No such file or directory in /home/apple981/public_html/backend/TCPDF-master/tcpdf.php on line 7039
+[25-Aug-2017 15:13:16 UTC] PHP Notice:  Undefined index: saleDateAdded in /home/apple981/public_html/inventory/new-gold.php on line 92
+[25-Aug-2017 15:13:16 UTC] PHP Notice:  Undefined index: saleDateAdded in /home/apple981/public_html/inventory/new-gold.php on line 92
+[25-Aug-2017 15:17:00 UTC] PHP Notice:  Undefined index: saleDateAdded in /home/apple981/public_html/inventory/new-gold.php on line 92
+[25-Aug-2017 15:17:00 UTC] PHP Notice:  Undefined index: saleDateAdded in /home/apple981/public_html/inventory/new-gold.php on line 92
+[25-Aug-2017 15:17:31 UTC] PHP Notice:  Undefined index: saleDateAdded in /home/apple981/public_html/inventory/new-gold.php on line 92
+[25-Aug-2017 15:17:31 UTC] PHP Notice:  Undefined index: saleDateAdded in /home/apple981/public_html/inventory/new-gold.php on line 92
+[25-Aug-2017 15:17:31 UTC] PHP Notice:  Undefined index: saleDateAdded in /home/apple981/public_html/inventory/new-gold.php on line 92
+[25-Aug-2017 15:19:00 UTC] PHP Notice:  Undefined index: saleDateAdded in /home/apple981/public_html/inventory/new-gold.php on line 92
+[25-Aug-2017 15:19:00 UTC] PHP Notice:  Undefined index: saleDateAdded in /home/apple981/public_html/inventory/new-gold.php on line 92
+[25-Aug-2017 15:19:00 UTC] PHP Notice:  Undefined index: saleDateAdded in /home/apple981/public_html/inventory/new-gold.php on line 92
+[25-Aug-2017 15:19:05 UTC] PHP Notice:  Undefined index: saleDateAdded in /home/apple981/public_html/inventory/new-gold.php on line 92
+[25-Aug-2017 15:19:05 UTC] PHP Notice:  Undefined index: saleDateAdded in /home/apple981/public_html/inventory/new-gold.php on line 92
+[25-Aug-2017 15:19:05 UTC] PHP Notice:  Undefined index: saleDateAdded in /home/apple981/public_html/inventory/new-gold.php on line 92
+[28-Aug-2017 09:47:23 UTC] PHP Notice:  Undefined index: saleDateAdded in /home/apple981/public_html/inventory/new-gold.php on line 92
+[28-Aug-2017 09:47:23 UTC] PHP Notice:  Undefined index: saleDateAdded in /home/apple981/public_html/inventory/new-gold.php on line 92
+[28-Aug-2017 09:47:23 UTC] PHP Notice:  Undefined index: saleDateAdded in /home/apple981/public_html/inventory/new-gold.php on line 92
